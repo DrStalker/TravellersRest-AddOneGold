@@ -18,3 +18,6 @@ This is a simple proof-of-concept mod for Traveller's Rest.  Install it, then pr
 2. Bepinex will create a file in the <game folder>\BepInEx\config\ with default settings for the mod.
 3. Exit the game, edit the config file, restart the game.
 
+## Downloading the mod
+
+Adding Traveller's Rest to Nexus Mods is in progress, until that is complete you can download the mod from [compiled-releases](https://github.com/DrStalker/TravellersRest-EasyFishing/tree/main/compiled-releases)

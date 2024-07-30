@@ -1,3 +1,5 @@
+# TravellersRest-AddOneGold
+
 This is a simple proof-of-concept mod for Traveller's Rest.  Install it, then press F10 to add one gold.  You can change the key used via the configuration file
 
 ## Downloading the mod

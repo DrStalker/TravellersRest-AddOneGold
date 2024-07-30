@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <AssemblyName>net.nep.bepinex.trtest3</AssemblyName>
-    <Description>Travellers Rest Test Plugin 3</Description>
-    <Version>1.0.0</Version>
+    <AssemblyName>net.nep.bepinex.addonegold</AssemblyName>
+    <Description>Add One Gold</Description>
+    <Version>1.0.1</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>

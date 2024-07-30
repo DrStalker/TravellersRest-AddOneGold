@@ -25,7 +25,7 @@ namespace MyFirstPlugin3
             if (Input.GetKeyDown(_hotKey.Value))
             {
                 int pre = Money.ToCopper();
-                Money.APPMBNEIPOE(-10000);
+                Money.MinusPrice(-10000);
                 int post = Money.ToCopper();
                 Logger.LogInfo(string.Format("Added 1Gold {0} -> {1}", pre, post));
 

@@ -4,7 +4,7 @@ This is a simple proof-of-concept mod for Traveller's Rest.  Install it, then pr
 
 ## Downloading the mod
 
-Adding Traveller's Rest to Nexus Mods is in progress, until that is complete you can download the mod from [compiled-releases](https://github.com/DrStalker/TravellersRest-AddOneGold/tree/main/compiled-releases)
+Mods are available on [Nexus Mods](https://www.nexusmods.com/travellersrest) or you can download the mod from [compiled-releases](https://github.com/DrStalker/TravellersRest-AddOneGold/tree/main/compiled-releases)
 
 ## How to install mods:
 
